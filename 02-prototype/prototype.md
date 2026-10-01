@@ -4,18 +4,19 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+https://juno-pm-daily-brief.lovable.app/
 
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+_Juno PM assistant analyzed Slack, Jira and Confluence and prioritized and create a daily brief.
+
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:**  The detailed prompt was very prescriptive 
+- **What broke / felt like a toy:**  The prototype design could be better 
+- **What I'd change next pass:** _____ Start even smaller with a specific use case 
